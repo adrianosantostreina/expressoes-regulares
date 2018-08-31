@@ -1,0 +1,63 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 367
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 3
+  object Edit1: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    StyleLookup = 'transparentedit'
+    TabOrder = 1
+    TextSettings.HorzAlign = Center
+    Position.X = 32.000000000000000000
+    Position.Y = 24.000000000000000000
+    Size.Width = 297.000000000000000000
+    Size.Height = 32.000000000000000000
+    Size.PlatformDefault = False
+    TextPrompt = 'CPF'
+    OnChangeTracking = Edit1ChangeTracking
+    object Line1: TLine
+      Align = Bottom
+      LineType = Bottom
+      Position.Y = 22.000000000000000000
+      Size.Width = 297.000000000000000000
+      Size.Height = 10.000000000000000000
+      Size.PlatformDefault = False
+    end
+  end
+  object Edit2: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    StyleLookup = 'transparentedit'
+    TabOrder = 0
+    TextSettings.HorzAlign = Center
+    Position.X = 32.000000000000000000
+    Position.Y = 72.000000000000000000
+    Size.Width = 297.000000000000000000
+    Size.Height = 32.000000000000000000
+    Size.PlatformDefault = False
+    TextPrompt = 'EMAIL'
+    OnChangeTracking = Edit2ChangeTracking
+    object Line2: TLine
+      Align = Bottom
+      LineType = Bottom
+      Position.Y = 22.000000000000000000
+      Size.Width = 297.000000000000000000
+      Size.Height = 10.000000000000000000
+      Size.PlatformDefault = False
+    end
+  end
+  object Button1: TButton
+    Position.X = 32.000000000000000000
+    Position.Y = 128.000000000000000000
+    Size.Width = 297.000000000000000000
+    Size.Height = 41.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+    Text = 'Validar CPF'
+    OnClick = Button1Click
+  end
+end

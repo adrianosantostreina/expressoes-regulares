@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/05/28 13:59:17.000.704,=D:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/30 17:12:11.000.493,=D:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/06/01 16:44:31.000.666,=D:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/05 18:06:18.000.010,=D:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/05 20:17:00.000.077,=D:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/30 22:05:20.821,=D:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/30 22:20:27.730,D:\GitHub TDevRocks\expressores-regulares\Unit1.pas=D:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/30 22:20:27.730,D:\GitHub TDevRocks\expressores-regulares\Unit1.fmx=D:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2018/08/30 22:20:32.922,D:\GitHub TDevRocks\expressores-regulares\Expressoes.dproj=D:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="0023109677"/>
+		<PmacOS iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
